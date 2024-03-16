@@ -5,19 +5,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinmadan&label=Profile%20views&color=0e75b6&style=flat" alt="jatinmadan" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatinmadan" alt="jatinmadan" +1000 /></a> </p>
 
-- 🔭 I’m currently working on *online selling portal*
-- 
+
 - 🌱 I’m currently learning *frameworks, backend*
 
 - 👯 I’m looking to collaborate on *web dev projects*
 
 - 👨‍💻 All of my projects are available at [github.com/jatinmadan?tab=repositories](github.com/jatinmadan?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/6360407186885532597?hl=en&tab=jj&pli=1](https://www.blogger.com/blog/posts/6360407186885532597?hl=en&tab=jj&pli=1)
-
 - 💬 Ask me about *projects ideas*
 
-- 📫 How to reach me *jatinmadan@gmail.com*
+- 📫 How to reach me *madanjatin8@gmail.com*
 
 - ⚡ Fun fact *I think I am funny*
 
