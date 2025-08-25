@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning *frameworks, backend*
 
-- 👯 I’m looking to collaborate on *web dev projects*
+- 👯 I’m looking to collaborate on *software projects*
 
 - 👨‍💻 All of my projects are available at [github.com/jatinmadan?tab=repositories](github.com/jatinmadan?tab=repositories)
 
