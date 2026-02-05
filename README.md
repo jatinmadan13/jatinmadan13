@@ -1,31 +1,84 @@
 <h1 align="center">Hi 👋, I'm Jatin Madan</h1>
+<h3 align="center">Cloud & DevOps Enthusiast | Software Developer | Backend Learner</h3>
 
-<h3 align="center">A passionate software developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinmadan&label=Profile%20views&color=0e75b6&style=flat" alt="jatinmadan" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatinmadan" alt="jatinmadan" +1000 /></a> </p>
-
-
-- 🌱 I’m currently learning *frameworks, backend*
-
-- 👯 I’m looking to collaborate on *software projects*
-
-- 👨‍💻 All of my projects are available at [github.com/jatinmadan?tab=repositories](github.com/jatinmadan?tab=repositories)
-
-- 💬 Ask me about *projects ideas*
-
-- 📫 How to reach me *madanjatin8@gmail.com*
-
-- ⚡ Fun fact *I think I am funny*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jatinmadan13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatinmadan" height="30" width="40" /></a>
-<a href="https://instagram.com/jatinmadan13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jatinmadan" height="30" width="40" /></a>
-
-<a href="https://www.leetcode.com/jatinmadan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jatinmadan" height="30" width="40" /></a>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jatinmadan&label=Profile%20views&color=0e75b6&style=flat" alt="jatinmadan" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  </p>
+---
+
+## 🚀 About Me
+
+- 🌩️ Aspiring **Cloud & DevOps Engineer**
+- 🔧 Currently learning **Azure, CI/CD, Docker, Kubernetes & Backend Development**
+- 💻 Passionate about **Automation, Cloud Infrastructure & Scalable Systems**
+- 👯 Open to collaborate on **Cloud / DevOps / Backend Projects**
+- 📚 Always learning and improving technical skills
+- ⚡ Fun fact: *I automate things so I can be lazy efficiently 😄*
+
+---
+
+## 🧰 Cloud & DevOps Tools
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 💻 Programming & Development
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 📌 Current Focus
+
+- ☁️ Azure Cloud (Compute, Storage, Networking, ARM, RBAC)
+- ⚙️ CI/CD Pipelines (GitHub Actions / Azure DevOps)
+- 🐳 Docker & Containerization
+- ☸️ Kubernetes Basics
+- 🏗️ Infrastructure as Code (Terraform / ARM / Bicep)
+- 🔐 Cloud Security & IAM
+
+---
+
+## 📂 My Projects
+
+🔗 All repositories:  
+👉 https://github.com/jatinmadan?tab=repositories
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/jatinmadan13" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
+<a href="https://instagram.com/jatinmadan13" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" width="40" height="40"/></a>
+<a href="https://leetcode.com/jatinmadan" target="blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" width="40" height="40"/></a>
+</p>
+
+---
+
+## 📧 Email
+**madanjatin8@gmail.com**
+
+---
+
+⭐ *Always learning, always building, always improving.*
