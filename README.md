@@ -70,7 +70,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/jatinmadan13" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
-<a href="https://instagram.com/jatinmadan13" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" width="40" height="40"/></a>
+<a href="https://instagram.com/jatinmadan13" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40"/></a>
 <a href="https://leetcode.com/jatinmadan" target="blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" width="40" height="40"/></a>
 </p>
 
