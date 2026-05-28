@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jatin Madan</h1>
-<h3 align="center">Cloud & DevOps Enthusiast | Software Developer | Backend Learner</h3>
+<h3 align="center">Cloud & DevOps Enthusiast | Learning. Building. Automating with AI</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jatinmadan&label=Profile%20views&color=0e75b6&style=flat" alt="jatinmadan" />
@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🌩️ Aspiring **Cloud & DevOps Engineer**
+- 🌩️ **Associate Cloud Consultant**
 - 🔧 Currently learning **Azure, CI/CD, Docker, Kubernetes & Backend Development**
 - 💻 Passionate about **Automation, Cloud Infrastructure & Scalable Systems**
 - 👯 Open to collaborate on **Cloud / DevOps / Backend Projects**
